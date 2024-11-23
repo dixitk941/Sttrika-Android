@@ -2,6 +2,11 @@
   "expo": {
     "name": "Sttrika-Android",
     "slug": "Sttrika-Android",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "7dda3e37-5668-4d7a-885d-2fb900376736"
+      }
+    }
   }
 }
